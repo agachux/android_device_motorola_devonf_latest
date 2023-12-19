@@ -18,7 +18,7 @@ $(call inherit-product, device/motorola/devonf/device.mk)
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(LOCAL_PATH)/recovery/root,recovery/root)
 
 PRODUCT_DEVICE := devonf
-PRODUCT_NAME := omni_devonf
+PRODUCT_NAME := twrp_devonf
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := moto g73 5G
 PRODUCT_MANUFACTURER := motorola
