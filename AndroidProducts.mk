@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_devonf.mk
+    $(LOCAL_DIR)/twrp_devonf.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_devonf-user \
-    omni_devonf-userdebug \
-    omni_devonf-eng
+    twrp_devonf-user \
+    twrp_devonf-userdebug \
+    twrp_devonf-eng
